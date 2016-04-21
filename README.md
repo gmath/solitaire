@@ -1,0 +1,2 @@
+# solitaire
+solitaire variation simulation
